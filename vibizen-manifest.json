@@ -1,0 +1,39 @@
+{
+  "name": "ViBiZen",
+  "short_name": "vibizen",
+  "scope": "https://vibizen.com",
+  "start_url": "https://vibizen.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Apakah Anda sedang mencari ide bisnis? Kami percaya bahwa sebuah ide dapat mengubah dunia. Vibizen memberi Anda solusi gratis ide ide unik dan tips mengelola tren terbaru menjadi peluang bisnis yang berfokus pada inovasi teknologi, sumber daya manusia, digital marketing online, investasi, keuangan, umkm, usaha kreatif dan usaha kecil yang menjanjikan di masa depan sebagai inspirasi bagi entrepreneur pemula dan profesional untuk sukses. Juga, kontribusi kami pada perubahan dunia yang lebih baik",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-06wgdSVpzHM/YRzaFATbVkI/AAAAAAAAEBo/KaCYoSpbeREU3dC1e7B-DVmtkB5LWOtjQCLcBGAsYHQ/s48/Vibizen.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-06wgdSVpzHM/YRzaFATbVkI/AAAAAAAAEBo/KaCYoSpbeREU3dC1e7B-DVmtkB5LWOtjQCLcBGAsYHQ/s72/Vibizen.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-06wgdSVpzHM/YRzaFATbVkI/AAAAAAAAEBo/KaCYoSpbeREU3dC1e7B-DVmtkB5LWOtjQCLcBGAsYHQ/s96/Vibizen.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-06wgdSVpzHM/YRzaFATbVkI/AAAAAAAAEBo/KaCYoSpbeREU3dC1e7B-DVmtkB5LWOtjQCLcBGAsYHQ/s144/Vibizen.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-06wgdSVpzHM/YRzaFATbVkI/AAAAAAAAEBo/KaCYoSpbeREU3dC1e7B-DVmtkB5LWOtjQCLcBGAsYHQ/s168/Vibizen.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-06wgdSVpzHM/YRzaFATbVkI/AAAAAAAAEBo/KaCYoSpbeREU3dC1e7B-DVmtkB5LWOtjQCLcBGAsYHQ/s192/Vibizen.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-06wgdSVpzHM/YRzaFATbVkI/AAAAAAAAEBo/KaCYoSpbeREU3dC1e7B-DVmtkB5LWOtjQCLcBGAsYHQ/s512/Vibizen.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
